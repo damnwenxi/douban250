@@ -1,3 +1,10 @@
+/*
+ * @Date         : 2021-02-25 22:06:06
+ * @Author       : kefeng
+ * @LastEditors  : kefeng
+ * @LastEditTime : 2021-02-27 22:20:19
+ * @FilePath     : /douban250/.eslintrc.js
+ */
 module.exports = {
   root: true,
   env: {
@@ -5,7 +12,6 @@ module.exports = {
   },
   extends: [
     'plugin:vue/essential',
-    '@vue/airbnb',
   ],
   parserOptions: {
     parser: 'babel-eslint',

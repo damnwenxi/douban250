@@ -305,7 +305,7 @@ module.exports = [
     score: '9.2',
     actor: 'N/A',
     director: 'N/A',
-    year: 'N/A',
+    year: '2000',
     country: 'N/A',
     category: 'N/A',
     cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1454261925.jpg',
