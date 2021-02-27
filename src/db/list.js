@@ -8,6 +8,8 @@ module.exports = [
     year: '1994',
     country: '美国',
     category: '犯罪/剧情',
+    cover: 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p480747492.jpg',
+    quote: '希望让人自由。',
   },
   {
     title: '霸王别姬',
@@ -18,6 +20,8 @@ module.exports = [
     year: '1993',
     country: '中国大陆中国香港',
     category: '剧情/爱情/同性',
+    cover: 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2561716440.jpg',
+    quote: '风华绝代。',
   },
   {
     title: '阿甘正传',
@@ -28,6 +32,8 @@ module.exports = [
     year: '1994',
     country: '美国',
     category: '剧情/爱情',
+    cover: 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2372307693.jpg',
+    quote: '一部美国近现代史。',
   },
   {
     title: '这个杀手不太冷',
@@ -38,6 +44,8 @@ module.exports = [
     year: '1994',
     country: '法国美国',
     category: '剧情/动作/犯罪',
+    cover: 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p511118051.jpg',
+    quote: '怪蜀黍和小萝莉不得不说的故事。',
   },
   {
     title: '泰坦尼克号',
@@ -48,6 +56,8 @@ module.exports = [
     year: '1997',
     country: '美国',
     category: '剧情/爱情/灾难',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p457760035.jpg',
+    quote: '失去的才是永恒的。 ',
   },
   {
     title: '美丽人生',
@@ -58,6 +68,8 @@ module.exports = [
     year: '1997',
     country: '意大利',
     category: '剧情/喜剧/爱情/战争',
+    cover: 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2578474613.jpg',
+    quote: '最美的谎言。',
   },
   {
     title: '千与千寻',
@@ -68,6 +80,8 @@ module.exports = [
     year: '2001',
     country: '日本',
     category: '剧情/动画/奇幻',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2557573348.jpg',
+    quote: '最好的宫崎骏，最好的久石让。 ',
   },
   {
     title: '辛德勒的名单',
@@ -78,6 +92,8 @@ module.exports = [
     year: '1993',
     country: '美国',
     category: '剧情/历史/战争',
+    cover: 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p492406163.jpg',
+    quote: '拯救一个人，就是拯救整个世界。',
   },
   {
     title: '盗梦空间',
@@ -88,6 +104,8 @@ module.exports = [
     year: '2010',
     country: '美国英国',
     category: '剧情/科幻/悬疑/冒险',
+    cover: 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2616355133.jpg',
+    quote: '诺兰给了我们一场无法盗取的梦。',
   },
   {
     title: '忠犬八公的故事',
@@ -98,6 +116,8 @@ module.exports = [
     year: '2009',
     country: '美国英国',
     category: '剧情',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p524964039.jpg',
+    quote: '永远都不能忘记你所爱的人。',
   },
   {
     title: '星际穿越',
@@ -108,6 +128,8 @@ module.exports = [
     year: '2014',
     country: '美国英国加拿大',
     category: '剧情/科幻/冒险',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2614988097.jpg',
+    quote: '爱是一种力量，让我们超越时空感知它的存在。',
   },
   {
     title: '楚门的世界',
@@ -118,6 +140,8 @@ module.exports = [
     year: '1998',
     country: '美国',
     category: '剧情/科幻',
+    cover: 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p479682972.jpg',
+    quote: '如果再也不能见到你，祝你早安，午安，晚安。',
   },
   {
     title: '海上钢琴师',
@@ -128,6 +152,8 @@ module.exports = [
     year: '1998',
     country: '意大利',
     category: '剧情/音乐',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2574551676.jpg',
+    quote: '每个人都要走一条自己坚定了的路，就算是粉身碎骨。 ',
   },
   {
     title: '三傻大闹宝莱坞',
@@ -138,6 +164,8 @@ module.exports = [
     year: '2009',
     country: '印度',
     category: '剧情/喜剧/爱情/歌舞',
+    cover: 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p579729551.jpg',
+    quote: '英俊版憨豆，高情商版谢耳朵。',
   },
   {
     title: '机器人总动员',
@@ -148,6 +176,8 @@ module.exports = [
     year: '2008',
     country: '美国',
     category: '科幻/动画/冒险',
+    cover: 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1461851991.jpg',
+    quote: '小瓦力，大人生。',
   },
   {
     title: '放牛班的春天',
@@ -158,6 +188,8 @@ module.exports = [
     year: '2004',
     country: '法国瑞士德国',
     category: '剧情/音乐',
+    cover: 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910824951.jpg',
+    quote: '天籁一般的童声，是最接近上帝的存在。 ',
   },
   {
     title: '大话西游之大圣娶亲',
@@ -168,6 +200,8 @@ module.exports = [
     year: '1995',
     country: '中国香港中国大陆',
     category: '喜剧/爱情/奇幻/古装',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2455050536.jpg',
+    quote: '一生所爱。',
   },
   {
     title: '疯狂动物城',
@@ -178,6 +212,8 @@ module.exports = [
     year: '2016',
     country: '美国',
     category: '喜剧/动画/冒险',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2614500649.jpg',
+    quote: '迪士尼给我们营造的乌托邦就是这样，永远善良勇敢，永远出乎意料。',
   },
   {
     title: '无间道',
@@ -188,6 +224,8 @@ module.exports = [
     year: '2002',
     country: '中国香港',
     category: '剧情/犯罪/悬疑',
+    cover: 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2564556863.jpg',
+    quote: '香港电影史上永不过时的杰作。',
   },
   {
     title: '熔炉',
@@ -198,6 +236,8 @@ module.exports = [
     year: '2011',
     country: '韩国',
     category: '剧情',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1363250216.jpg',
+    quote: '我们一路奋战不是为了改变世界，而是为了不让世界改变我们。',
   },
   {
     title: '教父',
@@ -208,6 +248,8 @@ module.exports = [
     year: '1972',
     country: '美国',
     category: '剧情/犯罪',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p616779645.jpg',
+    quote: '千万不要记恨你的对手，这样会让你失去理智。',
   },
   {
     title: '当幸福来敲门',
@@ -218,6 +260,8 @@ module.exports = [
     year: '2006',
     country: '美国',
     category: '剧情/传记/家庭',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2614359276.jpg',
+    quote: '平民励志片。 ',
   },
   {
     title: '龙猫',
@@ -228,6 +272,8 @@ module.exports = [
     year: '1988',
     country: '日本',
     category: '动画/奇幻/冒险',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2540924496.jpg',
+    quote: '人人心中都有个龙猫，童年就永远不会消失。',
   },
   {
     title: '怦然心动',
@@ -238,6 +284,8 @@ module.exports = [
     year: '2010',
     country: '美国',
     category: '剧情/喜剧/爱情',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p501177648.jpg',
+    quote: '真正的幸福是来自内心深处。',
   },
   {
     title: '控方证人',
@@ -248,6 +296,8 @@ module.exports = [
     year: '1957',
     country: '美国',
     category: '剧情/犯罪/悬疑',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1505392928.jpg',
+    quote: '比利·怀德满分作品。',
   },
   {
     title: '触不可及',
@@ -258,6 +308,8 @@ module.exports = [
     year: 'N/A',
     country: 'N/A',
     category: 'N/A',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1454261925.jpg',
+    quote: '满满温情的高雅喜剧。',
   },
   {
     title: '蝙蝠侠：黑暗骑士',
@@ -268,6 +320,8 @@ module.exports = [
     year: '2008',
     country: '美国英国',
     category: '剧情/动作/科幻/犯罪/惊悚',
+    cover: 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p462657443.jpg',
+    quote: '无尽的黑暗。',
   },
   {
     title: '末代皇帝',
@@ -278,6 +332,8 @@ module.exports = [
     year: '1987',
     country: '英国意大利中国大陆法国',
     category: '剧情/传记/历史',
+    cover: 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p452089833.jpg',
+    quote: '“不要跟我比惨，我比你更惨”再适合这部电影不过了。',
   },
   {
     title: '活着',
@@ -288,6 +344,8 @@ module.exports = [
     year: '1994',
     country: '中国大陆中国香港',
     category: '剧情/历史/家庭',
+    cover: 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2524040532.jpg',
+    quote: '张艺谋最好的电影。',
   },
   {
     title: '寻梦环游记',
@@ -298,6 +356,8 @@ module.exports = [
     year: '2017',
     country: '美国',
     category: '喜剧/动画/奇幻/音乐',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2614500706.jpg',
+    quote: '死亡不是真的逝去，遗忘才是永恒的消亡。',
   },
   {
     title: '乱世佳人',
@@ -308,6 +368,8 @@ module.exports = [
     year: '1939',
     country: '美国',
     category: '剧情/历史/爱情/战争',
+    cover: 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1963126880.jpg',
+    quote: 'Tomorrow is another day.',
   },
   {
     title: '何以为家',
@@ -318,6 +380,8 @@ module.exports = [
     year: '2018',
     country: '黎巴嫩法国美国',
     category: '剧情',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2555295759.jpg',
+    quote: '凝视卑弱生命，用电影改变命运。',
   },
   {
     title: '指环王3：王者无敌',
@@ -328,6 +392,8 @@ module.exports = [
     year: '2003',
     country: '美国新西兰',
     category: '剧情/动作/奇幻/冒险',
+    cover: 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p691932373.jpg',
+    quote: '史诗的终章。',
   },
   {
     title: '哈利·波特与魔法石',
@@ -338,6 +404,8 @@ module.exports = [
     year: '2001',
     country: '美国英国',
     category: '奇幻/冒险',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2614949805.jpg',
+    quote: '童话世界的开端。',
   },
   {
     title: '飞屋环游记',
@@ -348,6 +416,8 @@ module.exports = [
     year: '2009',
     country: '美国',
     category: '剧情/喜剧/动画/冒险',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p485887754.jpg',
+    quote: '最后那些最无聊的事情，才是最值得怀念的。 ',
   },
   {
     title: '摔跤吧！爸爸',
@@ -358,6 +428,8 @@ module.exports = [
     year: '2016',
     country: '印度',
     category: '剧情/传记/运动/家庭',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2401676338.jpg',
+    quote: '你不是在为你一个人战斗，你要让千千万万的女性看到女生并不是只能相夫教子。',
   },
   {
     title: '素媛',
@@ -368,6 +440,8 @@ module.exports = [
     year: '2013',
     country: '韩国',
     category: '剧情',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2118532944.jpg',
+    quote: '受过伤害的人总是笑得最开心，因为他们不愿意让身边的人承受一样的痛苦。',
   },
   {
     title: '少年派的奇幻漂流',
@@ -378,6 +452,8 @@ module.exports = [
     year: '2012',
     country: '美国中国台湾英国加拿大',
     category: '剧情/奇幻/冒险',
+    cover: 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1784592701.jpg',
+    quote: '瑰丽壮观、无人能及的冒险之旅。',
   },
   {
     title: '十二怒汉',
@@ -388,6 +464,8 @@ module.exports = [
     year: '1957',
     country: '美国',
     category: '剧情',
+    cover: 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2173577632.jpg',
+    quote: '1957年的理想主义。 ',
   },
   {
     title: '哈尔的移动城堡',
@@ -398,6 +476,8 @@ module.exports = [
     year: '2004',
     country: '日本',
     category: '动画/奇幻/冒险',
+    cover: 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2174346180.jpg',
+    quote: '带着心爱的人在天空飞翔。',
   },
   {
     title: '鬼子来了',
@@ -408,6 +488,8 @@ module.exports = [
     year: '2000',
     country: '中国大陆',
     category: '剧情/喜剧',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2553104888.jpg',
+    quote: '对敌人的仁慈，就是对自己残忍。',
   },
   {
     title: '天空之城',
@@ -418,6 +500,8 @@ module.exports = [
     year: '1986',
     country: '日本',
     category: '动画/奇幻/冒险',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1446261379.jpg',
+    quote: '对天空的追逐，永不停止。 ',
   },
   {
     title: '大话西游之月光宝盒',
@@ -428,6 +512,8 @@ module.exports = [
     year: '1995',
     country: '中国香港中国大陆',
     category: '喜剧/爱情/奇幻/古装',
+    cover: 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2561721372.jpg',
+    quote: '旷古烁今。',
   },
   {
     title: '我不是药神',
@@ -438,6 +524,8 @@ module.exports = [
     year: '2018',
     country: '中国大陆',
     category: '剧情/喜剧',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2561305376.jpg',
+    quote: '对我们国家而言，这样的电影多一部是一部。',
   },
   {
     title: '罗马假日',
@@ -448,6 +536,8 @@ module.exports = [
     year: '1953',
     country: '美国',
     category: '喜剧/剧情/爱情',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2189265085.jpg',
+    quote: '爱情哪怕只有一天。',
   },
   {
     title: '闻香识女人',
@@ -458,6 +548,8 @@ module.exports = [
     year: '1992',
     country: '美国',
     category: '剧情',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2550757929.jpg',
+    quote: '史上最美的探戈。',
   },
   {
     title: '天堂电影院',
@@ -468,6 +560,8 @@ module.exports = [
     year: '1988',
     country: '意大利法国',
     category: '剧情/爱情',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2559577569.jpg',
+    quote: '那些吻戏，那些青春，都在影院的黑暗里被泪水冲刷得无比清晰。',
   },
   {
     title: '辩护人',
@@ -478,6 +572,8 @@ module.exports = [
     year: '2013',
     country: '韩国',
     category: '剧情',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2158166535.jpg',
+    quote: '电影的现实意义大过电影本身。',
   },
   {
     title: '猫鼠游戏',
@@ -488,6 +584,8 @@ module.exports = [
     year: '2002',
     country: '美国加拿大',
     category: '传记/犯罪/剧情',
+    cover: 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p453924541.jpg',
+    quote: '骗子大师和执著警探的你追我跑故事。 ',
   },
   {
     title: '大闹天宫',
@@ -498,6 +596,8 @@ module.exports = [
     year: 'N/A',
     country: 'N/A',
     category: 'N/A',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2184505167.jpg',
+    quote: '经典之作，历久弥新。',
   },
   {
     title: '搏击俱乐部',
@@ -508,6 +608,8 @@ module.exports = [
     year: '1999',
     country: '美国德国意大利',
     category: '剧情/动作/悬疑/惊悚',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1910926158.jpg',
+    quote: '邪恶与平庸蛰伏于同一个母体，在特定的时间互相对峙。',
   },
   {
     title: '教父2',
@@ -518,6 +620,8 @@ module.exports = [
     year: '1974',
     country: '美国',
     category: '剧情/犯罪',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2194138787.jpg',
+    quote: '优雅的孤独。',
   },
   {
     title: '狮子王',
@@ -528,6 +632,8 @@ module.exports = [
     year: '1994',
     country: '美国',
     category: '动画/冒险/歌舞',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2277799019.jpg',
+    quote: '动物版《哈姆雷特》。',
   },
   {
     title: '指环王2：双塔奇兵',
@@ -538,6 +644,8 @@ module.exports = [
     year: '2002',
     country: '美国新西兰',
     category: '剧情/动作/奇幻/冒险',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg',
+    quote: '承前启后的史诗篇章。',
   },
   {
     title: '钢琴家',
@@ -548,6 +656,8 @@ module.exports = [
     year: '2002',
     country: '英国法国波兰德国美国',
     category: '剧情/传记/战争/音乐',
+    cover: 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p792376093.jpg',
+    quote: '音乐能化解仇恨。',
   },
   {
     title: '死亡诗社',
@@ -558,6 +668,8 @@ module.exports = [
     year: '1989',
     country: '美国',
     category: '剧情',
+    cover: 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2575465690.jpg',
+    quote: '当一个死水般的体制内出现一个活跃的变数时，所有的腐臭都站在了光明的对面。',
   },
   {
     title: '黑客帝国',
@@ -568,6 +680,8 @@ module.exports = [
     year: 'N/A',
     country: 'N/A',
     category: 'N/A',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p451926968.jpg',
+    quote: '视觉革命。',
   },
   {
     title: '指环王1：魔戒再现',
@@ -578,6 +692,8 @@ module.exports = [
     year: '2001',
     country: '新西兰美国',
     category: '剧情/动作/奇幻/冒险',
+    cover: 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1354436051.jpg',
+    quote: '传说的开始。',
   },
   {
     title: '饮食男女',
@@ -588,6 +704,8 @@ module.exports = [
     year: '1994',
     country: '中国台湾美国',
     category: '剧情/家庭',
+    cover: 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910899751.jpg',
+    quote: '人生不能像做菜，把所有的料都准备好了才下锅。',
   },
   {
     title: '美丽心灵',
@@ -598,6 +716,8 @@ module.exports = [
     year: '2001',
     country: '美国',
     category: '传记/剧情',
+    cover: 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1665997400.jpg',
+    quote: '爱是一切逻辑和原由。',
   },
   {
     title: '窃听风暴',
@@ -608,6 +728,8 @@ module.exports = [
     year: 'N/A',
     country: 'N/A',
     category: 'N/A',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1808872109.jpg',
+    quote: '别样人生。',
   },
   {
     title: '让子弹飞',
@@ -618,6 +740,8 @@ module.exports = [
     year: '2010',
     country: '中国大陆中国香港',
     category: '剧情/喜剧/动作/西部',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1512562287.jpg',
+    quote: '你给我翻译翻译，神马叫做TMD的惊喜。',
   },
   {
     title: '绿皮书',
@@ -628,6 +752,8 @@ module.exports = [
     year: '2018',
     country: '美国中国大陆',
     category: '剧情/喜剧/传记',
+    cover: 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2549177902.jpg',
+    quote: '去除成见，需要勇气。',
   },
   {
     title: '两杆大烟枪',
@@ -638,6 +764,8 @@ module.exports = [
     year: '1998',
     country: '英国',
     category: '剧情/喜剧/犯罪',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p792443418.jpg',
+    quote: '4个臭皮匠顶个诸葛亮，盖·里奇果然不是盖的。',
   },
   {
     title: '本杰明·巴顿奇事',
@@ -648,6 +776,8 @@ module.exports = [
     year: '2008',
     country: '美国',
     category: '剧情/爱情/奇幻',
+    cover: 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2192535722.jpg',
+    quote: '在时间之河里感受溺水之苦。',
   },
   {
     title: '海蒂和爷爷',
@@ -658,6 +788,8 @@ module.exports = [
     year: '2015',
     country: '德国瑞士南非',
     category: '剧情/冒险/家庭',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2554525534.jpg',
+    quote: '如果生活中有什么使你感到快乐，那就去做吧！不要管别人说什么。',
   },
   {
     title: '飞越疯人院',
@@ -668,6 +800,8 @@ module.exports = [
     year: '1975',
     country: '美国',
     category: '剧情',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p792238287.jpg',
+    quote: '自由万岁。',
   },
   {
     title: '看不见的客人',
@@ -678,6 +812,8 @@ module.exports = [
     year: '2016',
     country: '西班牙',
     category: '剧情/犯罪/悬疑/惊悚',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2498971355.jpg',
+    quote: '你以为你以为的就是你以为的。',
   },
   {
     title: '西西里的美丽传说',
@@ -688,6 +824,8 @@ module.exports = [
     year: '2000',
     country: '意大利美国',
     category: '剧情/战争/情色',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2441988159.jpg',
+    quote: '美丽无罪。',
   },
   {
     title: '拯救大兵瑞恩',
@@ -698,6 +836,8 @@ module.exports = [
     year: '1998',
     country: '美国',
     category: '剧情/战争',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1014542496.jpg',
+    quote: '美利坚精神输出大片No1.',
   },
   {
     title: '穿条纹睡衣的男孩',
@@ -708,6 +848,8 @@ module.exports = [
     year: '2008',
     country: '英国美国',
     category: '剧情/战争',
+    cover: 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1473670352.jpg',
+    quote: '尽管有些不切实际的幻想，这部电影依旧是一部感人肺腑的佳作。',
   },
   {
     title: '小鞋子',
@@ -718,6 +860,8 @@ module.exports = [
     year: '1997',
     country: '伊朗',
     category: '剧情/儿童/家庭',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2165511465.jpg',
+    quote: '奔跑的孩子是天使。',
   },
   {
     title: '音乐之声',
@@ -728,6 +872,8 @@ module.exports = [
     year: '1965',
     country: '美国',
     category: '剧情/传记/爱情/歌舞',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p453788577.jpg',
+    quote: '用音乐化解仇恨，让歌声串起美好。',
   },
   {
     title: '情书',
@@ -738,6 +884,8 @@ module.exports = [
     year: '1995',
     country: '日本',
     category: '剧情/爱情',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p449897379.jpg',
+    quote: '暗恋的极致。',
   },
   {
     title: '海豚湾',
@@ -748,6 +896,8 @@ module.exports = [
     year: '2009',
     country: '美国',
     category: '纪录片',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2559579779.jpg',
+    quote: '海豚的微笑，是世界上最高明的伪装。',
   },
   {
     title: '美国往事',
@@ -758,6 +908,8 @@ module.exports = [
     year: '1984',
     country: '美国意大利',
     category: '犯罪/剧情',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p477229647.jpg',
+    quote: '往事如烟，无处祭奠。',
   },
   {
     title: '致命魔术',
@@ -768,6 +920,8 @@ module.exports = [
     year: '2006',
     country: '英国美国',
     category: '剧情/悬疑/惊悚',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p480383375.jpg',
+    quote: '孪生蝙蝠侠大战克隆金刚狼。',
   },
   {
     title: '沉默的羔羊',
@@ -778,6 +932,8 @@ module.exports = [
     year: '1991',
     country: '美国',
     category: '剧情/犯罪/惊悚',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1593414327.jpg',
+    quote: '安东尼·霍普金斯的顶级表演。',
   },
   {
     title: '禁闭岛',
@@ -788,6 +944,8 @@ module.exports = [
     year: '2010',
     country: '美国',
     category: '剧情/悬疑/惊悚',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1832875827.jpg',
+    quote: '昔日翩翩少年，今日大腹便便。',
   },
   {
     title: '低俗小说',
@@ -798,6 +956,8 @@ module.exports = [
     year: '1994',
     country: '美国',
     category: '剧情/喜剧/犯罪',
+    cover: 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1910902213.jpg',
+    quote: '故事的高级讲法。',
   },
   {
     title: '蝴蝶效应',
@@ -808,6 +968,8 @@ module.exports = [
     year: 'N/A',
     country: 'N/A',
     category: 'N/A',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2209066019.jpg',
+    quote: '人的命运被自己瞬间的抉择改变。',
   },
   {
     title: '七宗罪',
@@ -818,6 +980,8 @@ module.exports = [
     year: '1995',
     country: '美国',
     category: '剧情/犯罪/悬疑/惊悚',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2219586434.jpg',
+    quote: '警察抓小偷，老鼠玩死猫。',
   },
   {
     title: '心灵捕手',
@@ -828,6 +992,8 @@ module.exports = [
     year: '1997',
     country: '美国',
     category: '剧情',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p480965695.jpg',
+    quote: '人生中应该拥有这样的一段豁然开朗。',
   },
   {
     title: '布达佩斯大饭店',
@@ -838,6 +1004,8 @@ module.exports = [
     year: '2014',
     country: '美国德国英国',
     category: '剧情/喜剧/冒险',
+    cover: 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2178872593.jpg',
+    quote: '小清新的故事里注入了大历史的情怀。',
   },
   {
     title: '春光乍泄',
@@ -848,6 +1016,8 @@ module.exports = [
     year: '1997',
     country: '中国香港日本韩国',
     category: '剧情/爱情/同性',
+    cover: 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p465939041.jpg',
+    quote: '爱情纠缠，男女一致。',
   },
   {
     title: '摩登时代',
@@ -858,6 +1028,8 @@ module.exports = [
     year: '1936',
     country: '美国',
     category: '剧情/喜剧/爱情',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2263408369.jpg',
+    quote: '大时代中的人生，小人物的悲喜。',
   },
   {
     title: '哈利·波特与死亡圣器(下)',
@@ -868,6 +1040,8 @@ module.exports = [
     year: '2011',
     country: '美国英国',
     category: '奇幻/冒险',
+    cover: 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p917846733.jpg',
+    quote: '10年的完美句点。',
   },
   {
     title: '被嫌弃的松子的一生',
@@ -878,6 +1052,8 @@ module.exports = [
     year: '2006',
     country: '日本',
     category: '剧情/歌舞',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p884763596.jpg',
+    quote: '以戏谑来戏谑戏谑。',
   },
   {
     title: '阿凡达',
@@ -888,6 +1064,8 @@ module.exports = [
     year: '2009',
     country: '美国英国',
     category: '动作/科幻/冒险',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2180085848.jpg',
+    quote: '绝对意义上的美轮美奂。',
   },
   {
     title: '喜剧之王',
@@ -898,6 +1076,8 @@ module.exports = [
     year: '1999',
     country: '中国香港',
     category: '喜剧/剧情/爱情',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2579932167.jpg',
+    quote: '我是一个演员。',
   },
   {
     title: '致命ID',
@@ -908,6 +1088,8 @@ module.exports = [
     year: '2003',
     country: '美国',
     category: '剧情/悬疑/惊悚',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2558364386.jpg',
+    quote: '最不可能的那个人永远是最可能的。',
   },
   {
     title: '剪刀手爱德华',
@@ -918,6 +1100,8 @@ module.exports = [
     year: '1990',
     country: '美国',
     category: '剧情/奇幻/爱情',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p480956937.jpg',
+    quote: '浪漫忧郁的成人童话。',
   },
   {
     title: '杀人回忆',
@@ -928,6 +1112,8 @@ module.exports = [
     year: '2003',
     country: '韩国',
     category: '剧情/动作/犯罪/悬疑/惊悚',
+    cover: 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p657823840.jpg',
+    quote: '关于连环杀人悬案的集体回忆。',
   },
   {
     title: '加勒比海盗',
@@ -938,6 +1124,8 @@ module.exports = [
     year: '2003',
     country: '美国',
     category: '动作/冒险/奇幻',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1596085504.jpg',
+    quote: '约翰尼·德普的独角戏。',
   },
   {
     title: '勇敢的心',
@@ -948,6 +1136,8 @@ module.exports = [
     year: '1995',
     country: '美国',
     category: '动作/传记/剧情/历史/战争',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2004174709.jpg',
+    quote: '史诗大片的典范。',
   },
   {
     title: '狩猎',
@@ -958,6 +1148,8 @@ module.exports = [
     year: '2012',
     country: '丹麦瑞典',
     category: '剧情',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1546987967.jpg',
+    quote: '人言可畏。',
   },
   {
     title: '请以你的名字呼唤我',
@@ -968,6 +1160,8 @@ module.exports = [
     year: '2017',
     country: '意大利法国巴西美国荷兰德国',
     category: '剧情/爱情/同性',
+    cover: 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2505525050.jpg',
+    quote: '沉醉在电影的情感和视听氛围中无法自拔。',
   },
   {
     title: '天使爱美丽',
@@ -978,6 +1172,8 @@ module.exports = [
     year: '2001',
     country: '法国德国',
     category: '喜剧/爱情',
+    cover: 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2447590313.jpg',
+    quote: '法式小清新。 ',
   },
   {
     title: '断背山',
@@ -988,6 +1184,8 @@ module.exports = [
     year: '2005',
     country: '美国加拿大',
     category: '剧情/爱情/同性/家庭',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2604889017.jpg',
+    quote: '每个人心中都有一座断背山。',
   },
   {
     title: '红辣椒',
@@ -998,6 +1196,8 @@ module.exports = [
     year: '2006',
     country: '日本',
     category: '动画/悬疑/科幻/惊悚',
+    cover: 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p456825720.jpg',
+    quote: '梦的勾结。',
   },
   {
     title: '7号房的礼物',
@@ -1008,6 +1208,8 @@ module.exports = [
     year: '2013',
     country: '韩国',
     category: '剧情/喜剧/家庭',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1816276065.jpg',
+    quote: '《我是山姆》的《美丽人生》。',
   },
   {
     title: '幽灵公主',
@@ -1018,6 +1220,8 @@ module.exports = [
     year: '1997',
     country: '日本',
     category: '动画/奇幻/冒险',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1613191025.jpg',
+    quote: '人与自然的战争史诗。',
   },
   {
     title: '小森林 夏秋篇',
@@ -1028,6 +1232,8 @@ module.exports = [
     year: '2014',
     country: '日本',
     category: '剧情',
+    cover: 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2564498893.jpg',
+    quote: '那些静得只能听见呼吸的日子里，你明白孤独即生活。',
   },
   {
     title: '第六感',
@@ -1038,6 +1244,8 @@ module.exports = [
     year: '1999',
     country: '美国',
     category: '剧情/悬疑/惊悚',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2220184425.jpg',
+    quote: '深入内心的恐怖，出人意料的结局。',
   },
   {
     title: '阳光灿烂的日子',
@@ -1048,6 +1256,8 @@ module.exports = [
     year: '1994',
     country: '中国大陆中国香港',
     category: '剧情/爱情',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2564685215.jpg',
+    quote: '一场华丽的意淫。',
   },
   {
     title: '重庆森林',
@@ -1058,6 +1268,8 @@ module.exports = [
     year: '1994',
     country: '中国香港',
     category: '剧情/爱情',
+    cover: 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p792381411.jpg',
+    quote: '寂寞没有期限。',
   },
   {
     title: '唐伯虎点秋香',
@@ -1068,6 +1280,8 @@ module.exports = [
     year: '1993',
     country: '中国香港',
     category: '喜剧/爱情/古装',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2357915564.jpg',
+    quote: '华太师是黄霑，吴镇宇四大才子之一。',
   },
   {
     title: '超脱',
@@ -1078,6 +1292,8 @@ module.exports = [
     year: '2011',
     country: '美国',
     category: '剧情',
+    cover: 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1305562621.jpg',
+    quote: '穷尽一生，我们要学会的，不过是彼此拥抱。',
   },
   {
     title: '爱在黎明破晓前',
@@ -1088,6 +1304,8 @@ module.exports = [
     year: '1995',
     country: '美国奥地利瑞士',
     category: '剧情/爱情',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2555762374.jpg',
+    quote: '缘分是个连绵词，最美不过一瞬。',
   },
   {
     title: '小森林 冬春篇',
@@ -1098,6 +1316,8 @@ module.exports = [
     year: '2015',
     country: '日本',
     category: '剧情',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2215147728.jpg',
+    quote: '尊敬他人，尊敬你生活的这片土地，明白孤独是人生的常态。',
   },
   {
     title: '入殓师',
@@ -1108,6 +1328,8 @@ module.exports = [
     year: '2008',
     country: '日本',
     category: '剧情',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1583839859.jpg',
+    quote: '死可能是一道门，逝去并不是终结，而是超越，走向下一程。',
   },
   {
     title: '消失的爱人',
@@ -1118,6 +1340,8 @@ module.exports = [
     year: '2014',
     country: '美国',
     category: '剧情/犯罪/悬疑/惊悚',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2221768894.jpg',
+    quote: '年度最佳date movie。',
   },
   {
     title: '一一',
@@ -1128,6 +1352,8 @@ module.exports = [
     year: '2000',
     country: '中国台湾日本',
     category: '剧情/爱情/家庭',
+    cover: 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2567845803.jpg',
+    quote: '我们都曾经是一一。',
   },
   {
     title: '蝙蝠侠：黑暗骑士崛起',
@@ -1138,6 +1364,8 @@ module.exports = [
     year: '2012',
     country: '美国英国',
     category: '剧情/动作/科幻/犯罪/惊悚',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1706428744.jpg',
+    quote: '诺兰就是保证。',
   },
   {
     title: '菊次郎的夏天',
@@ -1148,6 +1376,8 @@ module.exports = [
     year: '1999',
     country: '日本',
     category: '剧情/喜剧',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2620392435.jpg',
+    quote: '从没见过那么流氓的温柔，从没见过那么温柔的流氓。',
   },
   {
     title: '功夫',
@@ -1158,6 +1388,8 @@ module.exports = [
     year: '2004',
     country: '中国大陆中国香港',
     category: '动作/喜剧/犯罪/奇幻',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2219011938.jpg',
+    quote: '警恶惩奸，维护世界和平这个任务就交给你了，好吗？',
   },
   {
     title: '侧耳倾听',
@@ -1168,6 +1400,8 @@ module.exports = [
     year: '1995',
     country: '日本',
     category: '剧情/爱情/动画',
+    cover: 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p456692072.jpg',
+    quote: '少女情怀总是诗。',
   },
   {
     title: '倩女幽魂',
@@ -1178,6 +1412,8 @@ module.exports = [
     year: '1987',
     country: '中国香港',
     category: '爱情/奇幻/武侠/古装',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2414157745.jpg',
+    quote: '两张绝世的脸。 ',
   },
   {
     title: '超能陆战队',
@@ -1188,6 +1424,8 @@ module.exports = [
     year: '2014',
     country: '美国',
     category: '喜剧/动作/科幻/动画/冒险',
+    cover: 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2614500883.jpg',
+    quote: 'Balalala~~~',
   },
   {
     title: '无人知晓',
@@ -1198,6 +1436,8 @@ module.exports = [
     year: '2004',
     country: '日本',
     category: '剧情',
+    cover: 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p661160053.jpg',
+    quote: '我的平常生活就是他人的幸福。',
   },
   {
     title: '人生果实',
@@ -1208,6 +1448,8 @@ module.exports = [
     year: '2017',
     country: '日本',
     category: '纪录片',
+    cover: 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2544912792.jpg',
+    quote: '土壤没有落叶不会肥沃，没有了你就不算人生。',
   },
   {
     title: '甜蜜蜜',
@@ -1218,6 +1460,8 @@ module.exports = [
     year: '1996',
     country: '中国香港',
     category: '剧情/爱情',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2223011274.jpg',
+    quote: '相逢只要一瞬间，等待却像是一辈子。',
   },
   {
     title: '萤火之森',
@@ -1228,6 +1472,8 @@ module.exports = [
     year: '2011',
     country: '日本',
     category: '剧情/爱情/动画/奇幻',
+    cover: 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1675053073.jpg',
+    quote: '触不到的恋人。',
   },
   {
     title: '借东西的小人阿莉埃蒂',
@@ -1238,6 +1484,8 @@ module.exports = [
     year: '2010',
     country: '日本',
     category: '动画/奇幻/冒险',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p617533616.jpg',
+    quote: '曾经的那段美好会沉淀为一辈子的记忆。',
   },
   {
     title: '爱在日落黄昏时',
@@ -1248,6 +1496,8 @@ module.exports = [
     year: '2004',
     country: '美国法国',
     category: '剧情/爱情',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2561542458.jpg',
+    quote: '九年后的重逢是世俗和责任的交叠，没了悸动和青涩，沧桑而温暖。',
   },
   {
     title: '玛丽和马克思',
@@ -1258,6 +1508,8 @@ module.exports = [
     year: '2009',
     country: '澳大利亚',
     category: '剧情/喜剧/动画',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2162822165.jpg',
+    quote: '你是我最好的朋友，你是我唯一的朋友 。',
   },
   {
     title: '完美的世界',
@@ -1268,6 +1520,8 @@ module.exports = [
     year: '1993',
     country: '美国',
     category: '剧情/犯罪',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2190556408.jpg',
+    quote: '坏人的好总是比好人的好来得更感人。',
   },
   {
     title: '驯龙高手',
@@ -1278,6 +1532,8 @@ module.exports = [
     year: '2010',
     country: '美国',
     category: '动画/奇幻/冒险',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2210954024.jpg',
+    quote: '和谐的生活离不开摸头与被摸头。',
   },
   {
     title: '哈利·波特与阿兹卡班的囚徒',
@@ -1288,6 +1544,8 @@ module.exports = [
     year: '2004',
     country: '英国美国',
     category: '奇幻/冒险',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1910812549.jpg',
+    quote: '不一样的导演，不一样的哈利·波特。',
   },
   {
     title: '幸福终点站',
@@ -1298,6 +1556,8 @@ module.exports = [
     year: '2004',
     country: '美国',
     category: '喜剧/剧情/爱情',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p854757687.jpg',
+    quote: '有时候幸福需要等一等。 ',
   },
   {
     title: '告白',
@@ -1308,6 +1568,8 @@ module.exports = [
     year: '2010',
     country: '日本',
     category: '剧情/悬疑',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p689520756.jpg',
+    quote: '没有一人完全善，也没有一人完全恶。',
   },
   {
     title: '大鱼',
@@ -1318,6 +1580,8 @@ module.exports = [
     year: '2003',
     country: '美国',
     category: '剧情/家庭/奇幻/冒险',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p692813374.jpg',
+    quote: '抱着梦想而活着的人是幸福的，怀抱梦想而死去的人是不朽的。',
   },
   {
     title: '阳光姐妹淘',
@@ -1328,6 +1592,8 @@ module.exports = [
     year: '2011',
     country: '韩国',
     category: '剧情/喜剧',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1374786017.jpg',
+    quote: '再多各自牛逼的时光，也比不上一起傻逼的岁月。 ',
   },
   {
     title: '射雕英雄传之东成西就',
@@ -1338,6 +1604,8 @@ module.exports = [
     year: '1993',
     country: '中国香港',
     category: '喜剧/奇幻/武侠/古装',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2609063925.jpg',
+    quote: '百看不厌。 ',
   },
   {
     title: '恐怖直播',
@@ -1348,6 +1616,8 @@ module.exports = [
     year: '2013',
     country: '韩国',
     category: '剧情/犯罪/悬疑',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2016930906.jpg',
+    quote: '恐怖分子的“秋菊打官司”。',
   },
   {
     title: '天书奇谭',
@@ -1358,6 +1628,8 @@ module.exports = [
     year: 'N/A',
     country: 'N/A',
     category: 'N/A',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2515539487.jpg',
+    quote: '传奇的年代，醉人的童话。',
   },
   {
     title: '怪兽电力公司',
@@ -1368,6 +1640,8 @@ module.exports = [
     year: '2001',
     country: '美国',
     category: '儿童/喜剧/动画/奇幻/冒险',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2513247938.jpg',
+    quote: '不要给它起名字，起了名字就有感情了。',
   },
   {
     title: '神偷奶爸',
@@ -1378,6 +1652,8 @@ module.exports = [
     year: '2010',
     country: '美国法国',
     category: '喜剧/动画/冒险',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p792776858.jpg',
+    quote: "Mr. I Don't Care其实也有Care的时候。",
   },
   {
     title: '哈利·波特与密室',
@@ -1388,6 +1664,8 @@ module.exports = [
     year: '2002',
     country: '美国英国德国',
     category: '奇幻/冒险',
+    cover: 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1082651990.jpg',
+    quote: '魔法的密室之门已打开...',
   },
   {
     title: '玩具总动员3',
@@ -1398,6 +1676,8 @@ module.exports = [
     year: '2010',
     country: '美国',
     category: '喜剧/动画/奇幻/冒险',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1283675359.jpg',
+    quote: '跨度十五年的欢乐与泪水。',
   },
   {
     title: '傲慢与偏见',
@@ -1408,6 +1688,8 @@ module.exports = [
     year: '2005',
     country: '法国英国美国',
     category: '剧情/爱情',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2016401659.jpg',
+    quote: '爱是摈弃傲慢与偏见之后的曙光。',
   },
   {
     title: '时空恋旅人',
@@ -1418,6 +1700,8 @@ module.exports = [
     year: '2013',
     country: '英国',
     category: '喜剧/爱情/奇幻',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2070153774.jpg',
+    quote: '把每天当作最后一天般珍惜度过，积极拥抱生活，就是幸福。',
   },
   {
     title: '教父3',
@@ -1428,6 +1712,8 @@ module.exports = [
     year: '1990',
     country: '美国',
     category: '剧情/犯罪',
+    cover: 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2169664351.jpg',
+    quote: '任何信念的力量，都无法改变命运。',
   },
   {
     title: '釜山行',
@@ -1438,6 +1724,8 @@ module.exports = [
     year: '2016',
     country: '韩国',
     category: '动作/惊悚/灾难',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2360940399.jpg',
+    quote: '揭露人性的丧尸题材力作。',
   },
   {
     title: '血战钢锯岭',
@@ -1448,6 +1736,8 @@ module.exports = [
     year: '2016',
     country: '澳大利亚美国',
     category: '剧情/传记/历史/战争',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2398141939.jpg',
+    quote: '优秀的战争片不会美化战场，不会粉饰死亡，不会矮化敌人，不会无视常识，最重要的，不会宣扬战争。',
   },
   {
     title: '哪吒闹海',
@@ -1458,6 +1748,8 @@ module.exports = [
     year: '1979',
     country: '中国大陆',
     category: '冒险/动画/奇幻',
+    cover: 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2516566783.jpg',
+    quote: '想你时你在闹海。',
   },
   {
     title: '被解救的姜戈',
@@ -1468,6 +1760,8 @@ module.exports = [
     year: '2012',
     country: '美国',
     category: '剧情/动作/西部/冒险',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1800813767.jpg',
+    quote: '热血沸腾，那个低俗、性感的无耻混蛋又来了。',
   },
   {
     title: '七武士',
@@ -1478,6 +1772,8 @@ module.exports = [
     year: '1954',
     country: '日本',
     category: '动作/冒险/剧情',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2215886505.jpg',
+    quote: '时代悲歌。',
   },
   {
     title: '一个叫欧维的男人决定去死',
@@ -1488,6 +1784,8 @@ module.exports = [
     year: '2015',
     country: '瑞典',
     category: '剧情',
+    cover: 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2406624993.jpg',
+    quote: '惠及一生的美丽。',
   },
   {
     title: '喜宴',
@@ -1498,6 +1796,8 @@ module.exports = [
     year: '1993',
     country: '中国台湾美国',
     category: '剧情/喜剧/爱情/同性/家庭',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2249048907.jpg',
+    quote: '中国家庭的喜怒哀乐忍。',
   },
   {
     title: '电锯惊魂',
@@ -1508,6 +1808,8 @@ module.exports = [
     year: '2004',
     country: '美国',
     category: '悬疑/惊悚/恐怖',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2565332644.jpg',
+    quote: '真相就在眼前。',
   },
   {
     title: '风之谷',
@@ -1518,6 +1820,8 @@ module.exports = [
     year: '1984',
     country: '日本',
     category: '动画/奇幻/冒险',
+    cover: 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1917567652.jpg',
+    quote: '动画片的圣经。',
   },
   {
     title: '我是山姆',
@@ -1528,6 +1832,8 @@ module.exports = [
     year: '2001',
     country: '美国',
     category: '剧情/家庭',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p652417775.jpg',
+    quote: '爱并不需要智商 。',
   },
   {
     title: '头号玩家',
@@ -1538,6 +1844,8 @@ module.exports = [
     year: '2018',
     country: '美国',
     category: '动作/科幻/冒险',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2516578307.jpg',
+    quote: '写给影迷，动漫迷和游戏迷的一封情书。',
   },
   {
     title: '英雄本色',
@@ -1548,6 +1856,8 @@ module.exports = [
     year: '1986',
     country: '中国香港',
     category: '剧情/动作/犯罪',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2504997087.jpg',
+    quote: '英雄泪短，兄弟情长。 ',
   },
   {
     title: '上帝之城',
@@ -1558,6 +1868,8 @@ module.exports = [
     year: 'N/A',
     country: 'N/A',
     category: 'N/A',
+    cover: 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p455677490.jpg',
+    quote: '被上帝抛弃了的上帝之城。',
   },
   {
     title: '谍影重重3',
@@ -1568,6 +1880,8 @@ module.exports = [
     year: '2007',
     country: '美国德国',
     category: '动作/悬疑/惊悚',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p792223507.jpg',
+    quote: '像吃了苏打饼一样干脆的电影。',
   },
   {
     title: '疯狂原始人',
@@ -1578,6 +1892,8 @@ module.exports = [
     year: 'N/A',
     country: 'N/A',
     category: 'N/A',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1867084027.jpg',
+    quote: '老少皆宜，这就是好莱坞动画的魅力。',
   },
   {
     title: '未麻的部屋',
@@ -1588,6 +1904,8 @@ module.exports = [
     year: '1997',
     country: '日本',
     category: '动画/奇幻/惊悚',
+    cover: 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1351050722.jpg',
+    quote: '好的剧本是，就算你猜到了结局也猜不到全部。',
   },
   {
     title: '三块广告牌',
@@ -1598,6 +1916,8 @@ module.exports = [
     year: '2017',
     country: '美国英国',
     category: '剧情/犯罪',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2510081688.jpg',
+    quote: '怼天怼地，你走后，她与世界为敌。',
   },
   {
     title: '卢旺达饭店',
@@ -1608,6 +1928,8 @@ module.exports = [
     year: '2004',
     country: '英国南非意大利',
     category: '剧情/传记/历史/战争',
+    cover: 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p470419493.jpg',
+    quote: '当这个世界闭上双眼，他却敞开了怀抱。',
   },
   {
     title: '纵横四海',
@@ -1618,6 +1940,8 @@ module.exports = [
     year: '1991',
     country: '中国香港',
     category: '剧情/喜剧/动作/犯罪',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2597918718.jpg',
+    quote: '香港浪漫主义警匪动作片的巅峰之作。',
   },
   {
     title: '岁月神偷',
@@ -1628,6 +1952,8 @@ module.exports = [
     year: '2010',
     country: '中国香港中国大陆',
     category: '剧情/家庭',
+    cover: 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p456666151.jpg',
+    quote: '岁月流逝，来日可追。',
   },
   {
     title: '花样年华',
@@ -1638,6 +1964,8 @@ module.exports = [
     year: '2000',
     country: '中国香港',
     category: '剧情/爱情',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1910828286.jpg',
+    quote: '偷情本没有这样美。',
   },
   {
     title: '达拉斯买家俱乐部',
@@ -1648,6 +1976,8 @@ module.exports = [
     year: '2013',
     country: '美国',
     category: '剧情/传记/同性',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2166160837.jpg',
+    quote: 'Jared Leto的腿比女人还美！',
   },
   {
     title: '心迷宫',
@@ -1658,6 +1988,8 @@ module.exports = [
     year: '2014',
     country: '中国大陆',
     category: '剧情/犯罪/悬疑',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2276780256.jpg',
+    quote: '荒诞讽刺，千奇百巧，抽丝剥茧，百转千回。',
   },
   {
     title: '模仿游戏',
@@ -1668,6 +2000,8 @@ module.exports = [
     year: '2014',
     country: '英国美国',
     category: '剧情/传记/战争/同性',
+    cover: 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2255040492.jpg',
+    quote: '他给机器起名“克里斯托弗”，因为这是他初恋的名字。',
   },
   {
     title: '黑客帝国3：矩阵革命',
@@ -1678,6 +2012,8 @@ module.exports = [
     year: '2003',
     country: '美国澳大利亚',
     category: '动作/科幻',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p443461818.jpg',
+    quote: '不得不说，《黑客帝国》系列是商业片与科幻、哲学完美结合的典范。',
   },
   {
     title: '新世界',
@@ -1688,6 +2024,8 @@ module.exports = [
     year: '2013',
     country: '韩国',
     category: '剧情/犯罪',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1903379979.jpg',
+    quote: '要做就做得狠一点，这样才能活下去。',
   },
   {
     title: '记忆碎片',
@@ -1698,6 +2036,8 @@ module.exports = [
     year: '2000',
     country: '美国',
     category: '犯罪/剧情/悬疑/惊悚',
+    cover: 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p641688453.jpg',
+    quote: '一个针管引发的血案。',
   },
   {
     title: '头脑特工队',
@@ -1708,6 +2048,8 @@ module.exports = [
     year: 'N/A',
     country: 'N/A',
     category: 'N/A',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2266293606.jpg',
+    quote: '愿我们都不用长大，每一座城堡都能永远存在。',
   },
   {
     title: '荒蛮故事',
@@ -1718,6 +2060,8 @@ module.exports = [
     year: '2014',
     country: '阿根廷西班牙',
     category: '剧情/喜剧/犯罪',
+    cover: 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2584519452.jpg',
+    quote: '始于荒诞，止于更荒诞。',
   },
   {
     title: '你的名字。',
@@ -1728,6 +2072,8 @@ module.exports = [
     year: '2016',
     country: '日本',
     category: '剧情/爱情/动画',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2395733377.jpg',
+    quote: '穿越错位的时空，仰望陨落的星辰，你没留下你的名字，我却无法忘记那句“我爱你”。',
   },
   {
     title: '忠犬八公物语',
@@ -1738,6 +2084,8 @@ module.exports = [
     year: '1987',
     country: '日本',
     category: '剧情',
+    cover: 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1576418852.jpg',
+    quote: '养狗三日，便会对你终其一生。',
   },
   {
     title: '真爱至上',
@@ -1748,6 +2096,8 @@ module.exports = [
     year: '2003',
     country: '英国美国法国',
     category: '喜剧/剧情/爱情',
+    cover: 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p475600770.jpg',
+    quote: '爱，是个动词。',
   },
   {
     title: '爆裂鼓手',
@@ -1758,6 +2108,8 @@ module.exports = [
     year: '2014',
     country: '美国',
     category: '剧情/音乐',
+    cover: 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2220776342.jpg',
+    quote: '这个世界从不善待努力的人，努力了也不一定会成功，但是知道自己在努力，就是活下去的动力。',
   },
   {
     title: '贫民窟的百万富翁',
@@ -1768,6 +2120,8 @@ module.exports = [
     year: '2008',
     country: '英国',
     category: '剧情/爱情',
+    cover: 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2434249040.jpg',
+    quote: '上帝之城+猜火车+阿甘正传+开心辞典=山寨富翁',
   },
   {
     title: '萤火虫之墓',
@@ -1778,6 +2132,8 @@ module.exports = [
     year: '1988',
     country: '日本',
     category: '动画/剧情/战争',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2237136718.jpg',
+    quote: '幸福是生生不息，却难以触及的远。 ',
   },
   {
     title: '东邪西毒',
@@ -1788,6 +2144,8 @@ module.exports = [
     year: '1994',
     country: '中国香港中国台湾',
     category: '剧情/动作/爱情/武侠/古装',
+    cover: 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1982176012.jpg',
+    quote: '电影诗。',
   },
   {
     title: '海街日记',
@@ -1798,6 +2156,8 @@ module.exports = [
     year: '2015',
     country: '日本',
     category: '剧情/家庭',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2603364117.jpg',
+    quote: '是枝裕和的家庭习作。',
   },
   {
     title: '黑天鹅',
@@ -1808,6 +2168,8 @@ module.exports = [
     year: '2010',
     country: '美国',
     category: '剧情/惊悚',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2549648344.jpg',
+    quote: '黑暗之美。',
   },
   {
     title: '惊魂记',
@@ -1818,6 +2180,8 @@ module.exports = [
     year: '1960',
     country: '美国',
     category: '悬疑/惊悚/恐怖',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1021883305.jpg',
+    quote: '故事的反转与反转，分裂电影的始祖。',
   },
   {
     title: '无敌破坏王',
@@ -1828,6 +2192,8 @@ module.exports = [
     year: '2012',
     country: '美国',
     category: '喜剧/动画/奇幻/冒险',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1735642656.jpg',
+    quote: '迪士尼和皮克斯拿错剧本的产物。',
   },
   {
     title: '你看起来好像很好吃',
@@ -1838,6 +2204,8 @@ module.exports = [
     year: '2010',
     country: '日本',
     category: '剧情/动画/儿童',
+    cover: 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p709670262.jpg',
+    quote: '感情不分食草或者食肉。',
   },
   {
     title: '冰川时代',
@@ -1848,6 +2216,8 @@ module.exports = [
     year: 'N/A',
     country: 'N/A',
     category: 'N/A',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1910895719.jpg',
+    quote: '松鼠才是角儿。',
   },
   {
     title: '小偷家族',
@@ -1858,6 +2228,8 @@ module.exports = [
     year: '2018',
     country: '日本',
     category: '剧情/犯罪/家庭',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2530599636.jpg',
+    quote: '我们组成了家。',
   },
   {
     title: '寄生虫',
@@ -1868,6 +2240,8 @@ module.exports = [
     year: '2019',
     country: '韩国',
     category: '剧情/喜剧',
+    cover: 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2561439800.jpg',
+    quote: '-',
   },
   {
     title: '雨人',
@@ -1878,6 +2252,8 @@ module.exports = [
     year: '1988',
     country: '美国',
     category: '剧情',
+    cover: 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2353324612.jpg',
+    quote: '生活在自己的世界里，也可以让周围的人显得可笑和渺小。',
   },
   {
     title: '绿里奇迹',
@@ -1888,6 +2264,8 @@ module.exports = [
     year: '1999',
     country: '美国',
     category: '犯罪/剧情/奇幻/悬疑',
+    cover: 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p767586451.jpg',
+    quote: '天使暂时离开。',
   },
   {
     title: '哈利·波特与火焰杯',
@@ -1898,6 +2276,8 @@ module.exports = [
     year: '2005',
     country: '英国美国',
     category: '悬疑/奇幻/冒险',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p735391084.jpg',
+    quote: '-',
   },
   {
     title: '爱在午夜降临前',
@@ -1908,6 +2288,8 @@ module.exports = [
     year: '2013',
     country: '美国希腊',
     category: '剧情/爱情',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2074715729.jpg',
+    quote: '所谓爱情，就是话唠一路，都不会心生腻烦，彼此嫌弃。',
   },
   {
     title: '恋恋笔记本',
@@ -1918,6 +2300,8 @@ module.exports = [
     year: '2004',
     country: '美国',
     category: '剧情/爱情',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p483604864.jpg',
+    quote: '爱情没有那么多借口，如果不能圆满，只能说明爱的不够。 ',
   },
   {
     title: '疯狂的石头',
@@ -1928,6 +2312,8 @@ module.exports = [
     year: '2006',
     country: '中国大陆中国香港',
     category: '喜剧/犯罪',
+    cover: 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p712241453.jpg',
+    quote: '中国版《两杆大烟枪》。',
   },
   {
     title: '恐怖游轮',
@@ -1938,6 +2324,8 @@ module.exports = [
     year: '2009',
     country: '英国澳大利亚',
     category: '剧情/悬疑/惊悚',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p462470694.jpg',
+    quote: '不要企图在重复中寻找已经失去的爱。',
   },
   {
     title: '奇迹男孩',
@@ -1948,6 +2336,8 @@ module.exports = [
     year: '2017',
     country: '美国中国香港',
     category: '剧情/儿童/家庭',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2507709428.jpg',
+    quote: '世界不完美，爱会有奇迹。',
   },
   {
     title: '雨中曲',
@@ -1958,6 +2348,8 @@ module.exports = [
     year: '1952',
     country: '美国',
     category: '喜剧/歌舞/爱情',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1612355875.jpg',
+    quote: '骨灰级歌舞片。',
   },
   {
     title: '魔女宅急便',
@@ -1968,6 +2360,8 @@ module.exports = [
     year: '1989',
     country: '日本',
     category: '动画/奇幻/冒险',
+    cover: 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p456676352.jpg',
+    quote: '宫崎骏的电影总让人感觉世界是美好的，阳光明媚的。',
   },
   {
     title: '二十二',
@@ -1978,6 +2372,8 @@ module.exports = [
     year: 'N/A',
     country: 'N/A',
     category: 'N/A',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2457609817.jpg',
+    quote: '有一些东西不应该被遗忘。',
   },
   {
     title: '九品芝麻官',
@@ -1988,6 +2384,8 @@ module.exports = [
     year: '1994',
     country: '中国香港中国大陆',
     category: '剧情/喜剧/古装',
+    cover: 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p648370300.jpg',
+    quote: '-',
   },
   {
     title: '海边的曼彻斯特',
@@ -1998,6 +2396,8 @@ module.exports = [
     year: '2016',
     country: '美国',
     category: '剧情/家庭',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2421855655.jpg',
+    quote: '我们都有权利不与自己的过去和解。',
   },
   {
     title: '房间',
@@ -2008,6 +2408,8 @@ module.exports = [
     year: '2015',
     country: '爱尔兰加拿大英国美国',
     category: '剧情/家庭',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2259715855.jpg',
+    quote: '被偷走的岁月，被伤害的生命，被禁锢的灵魂，终将被希望和善意救赎。',
   },
   {
     title: '虎口脱险',
@@ -2018,6 +2420,8 @@ module.exports = [
     year: '1966',
     country: '法国英国',
     category: '喜剧/战争',
+    cover: 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2399597512.jpg',
+    quote: '永远看不腻的喜剧。',
   },
   {
     title: '人工智能',
@@ -2028,6 +2432,8 @@ module.exports = [
     year: '2001',
     country: '美国英国',
     category: '剧情/科幻',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p792257137.jpg',
+    quote: '对爱的执着，可以超越一切。',
   },
   {
     title: '2001太空漫游',
@@ -2038,6 +2444,8 @@ module.exports = [
     year: '1968',
     country: '英国美国',
     category: '科幻/惊悚/冒险',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2560717825.jpg',
+    quote: '现代科幻电影的开山之作，最伟大导演的最伟大影片。',
   },
   {
     title: '色，戒',
@@ -2048,6 +2456,8 @@ module.exports = [
     year: '2007',
     country: '中国台湾中国大陆美国中国香港',
     category: '剧情/爱情/情色',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p453716305.jpg',
+    quote: '假戏真情，爱欲深海',
   },
   {
     title: '可可西里',
@@ -2058,6 +2468,8 @@ module.exports = [
     year: '2004',
     country: '中国大陆中国香港',
     category: '剧情/犯罪',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2363208684.jpg',
+    quote: '坚硬的信仰。',
   },
   {
     title: '罗生门',
@@ -2068,6 +2480,8 @@ module.exports = [
     year: '1950',
     country: '日本',
     category: '剧情/犯罪/悬疑',
+    cover: 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1598883511.jpg',
+    quote: '人生的N种可能性。',
   },
   {
     title: '城市之光',
@@ -2078,6 +2492,8 @@ module.exports = [
     year: '1931',
     country: '美国',
     category: '喜剧/剧情/爱情',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2170238828.jpg',
+    quote: '永远的小人物，伟大的卓别林。',
   },
   {
     title: '终结者2：审判日',
@@ -2088,6 +2504,8 @@ module.exports = [
     year: '1991',
     country: '美国法国',
     category: '动作/科幻',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1910909085.jpg',
+    quote: '少见的超越首部的续集，动作片中的经典。',
   },
   {
     title: '初恋这件小事',
@@ -2098,6 +2516,8 @@ module.exports = [
     year: 'N/A',
     country: 'N/A',
     category: 'N/A',
+    cover: 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1505312273.jpg',
+    quote: '黑小鸭速效美白记。',
   },
   {
     title: '魂断蓝桥',
@@ -2108,6 +2528,8 @@ module.exports = [
     year: '1940',
     country: '美国',
     category: '剧情/爱情/战争',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2351134499.jpg',
+    quote: '中国式内在的美国电影。',
   },
   {
     title: '牯岭街少年杀人事件',
@@ -2118,6 +2540,8 @@ module.exports = [
     year: '1991',
     country: '中国台湾',
     category: '剧情/犯罪',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p848381236.jpg',
+    quote: '弱者送给弱者的一刀。',
   },
   {
     title: '遗愿清单',
@@ -2128,6 +2552,8 @@ module.exports = [
     year: '2007',
     country: '美国',
     category: '冒险/喜剧/剧情',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1481879628.jpg',
+    quote: '用剩余不多的时间，去燃烧整个生命。',
   },
   {
     title: '大佛普拉斯',
@@ -2138,6 +2564,8 @@ module.exports = [
     year: '2017',
     country: '中国台湾',
     category: '剧情/喜剧',
+    cover: 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2505928032.jpg',
+    quote: '人们可以登上月球，却永远无法探索人们内心的宇宙。',
   },
   {
     title: '波西米亚狂想曲',
@@ -2148,6 +2576,8 @@ module.exports = [
     year: '2018',
     country: '英国美国',
     category: '剧情/传记/同性/音乐',
+    cover: 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2549558913.jpg',
+    quote: '-',
   },
   {
     title: '新龙门客栈',
@@ -2158,6 +2588,8 @@ module.exports = [
     year: '1992',
     country: '中国香港中国大陆',
     category: '动作/爱情/武侠/古装',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1421018669.jpg',
+    quote: '嬉笑怒骂，调风动月。',
   },
   {
     title: '源代码',
@@ -2168,6 +2600,8 @@ module.exports = [
     year: '2011',
     country: '美国加拿大',
     category: '科幻/悬疑/惊悚',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p988260245.jpg',
+    quote: '邓肯·琼斯继《月球》之后再度奉献出一部精彩绝伦的科幻佳作。',
   },
   {
     title: '青蛇',
@@ -2178,6 +2612,8 @@ module.exports = [
     year: '1993',
     country: '中国香港中国大陆',
     category: '剧情/爱情/奇幻/古装',
+    cover: 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2570901292.jpg',
+    quote: '人生如此，浮生如斯。谁人言，花彼岸，此生情长意短。谁都是不懂爱的罢了。',
   },
   {
     title: '海洋',
@@ -2188,6 +2624,8 @@ module.exports = [
     year: '2009',
     country: '法国瑞士西班牙美国阿联酋',
     category: '纪录片',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2559581324.jpg',
+    quote: '大海啊，不全是水。',
   },
   {
     title: '燃情岁月',
@@ -2198,6 +2636,8 @@ module.exports = [
     year: '1994',
     country: '美国',
     category: '剧情/爱情/战争/西部',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1023654037.jpg',
+    quote: '传奇，不是每个人都可以拥有。',
   },
   {
     title: '无耻混蛋',
@@ -2208,6 +2648,8 @@ module.exports = [
     year: '2009',
     country: '德国美国',
     category: '剧情/犯罪',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2575043939.jpg',
+    quote: '昆汀同学越来越变态了，比北野武还杜琪峰。',
   },
   {
     title: '疯狂的麦克斯4：狂暴之路',
@@ -2218,6 +2660,8 @@ module.exports = [
     year: '2015',
     country: '澳大利亚南非美国',
     category: '动作/科幻/冒险',
+    cover: 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2236181653.jpg',
+    quote: '“多么美好的一天！”轰轰轰砰咚，啪哒哒哒轰隆隆，磅~',
   },
   {
     title: '血钻',
@@ -2228,6 +2672,8 @@ module.exports = [
     year: '2006',
     country: '美国德国英国',
     category: '剧情/惊悚/冒险',
+    cover: 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1244017073.jpg',
+    quote: '每个美丽事物背后都是滴血的现实。',
   },
   {
     title: '步履不停',
@@ -2238,6 +2684,8 @@ module.exports = [
     year: '2008',
     country: '日本',
     category: '剧情/家庭',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2375245718.jpg',
+    quote: '日本的家庭电影已经是世界巅峰了，步履不停是巅峰中的佳作。',
   },
   {
     title: '穿越时空的少女',
@@ -2248,6 +2696,8 @@ module.exports = [
     year: '2006',
     country: '日本',
     category: '剧情/爱情/科幻/动画',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2079334286.jpg',
+    quote: '爱上未来的你。 ',
   },
   {
     title: '谍影重重2',
@@ -2258,6 +2708,8 @@ module.exports = [
     year: '2004',
     country: '美国德国',
     category: '动作/悬疑/惊悚',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p667644866.jpg',
+    quote: '谁说王家卫镜头很晃？',
   },
   {
     title: '阿飞正传',
@@ -2268,6 +2720,8 @@ module.exports = [
     year: '1990',
     country: '中国香港',
     category: '犯罪/剧情/爱情',
+    cover: 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2525770523.jpg',
+    quote: '王家卫是一种风格，张国荣是一个代表。',
   },
   {
     title: '彗星来的那一夜',
@@ -2278,6 +2732,8 @@ module.exports = [
     year: '2013',
     country: '美国英国',
     category: '科幻/悬疑/惊悚',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2187896734.jpg',
+    quote: '小成本大魅力。',
   },
   {
     title: '地球上的星星',
@@ -2288,6 +2744,8 @@ module.exports = [
     year: '2007',
     country: '印度',
     category: '剧情/儿童/家庭',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1973489335.jpg',
+    quote: '天使保护事件始末。',
   },
   {
     title: '战争之王',
@@ -2298,6 +2756,8 @@ module.exports = [
     year: '2005',
     country: '美国法国',
     category: '剧情/犯罪',
+    cover: 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p792282381.jpg',
+    quote: '做一颗让别人需要你的棋子。',
   },
   {
     title: '完美陌生人',
@@ -2308,6 +2768,8 @@ module.exports = [
     year: '2016',
     country: '意大利',
     category: '剧情/喜剧',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2522331945.jpg',
+    quote: '来啊，互相伤害啊！',
   },
   {
     title: '谍影重重',
@@ -2318,6 +2780,8 @@ module.exports = [
     year: '2002',
     country: '美国德国捷克',
     category: '动作/悬疑/惊悚',
+    cover: 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1597183981.jpg',
+    quote: '哗啦啦啦啦，天在下雨，哗啦啦啦啦，云在哭泣……找自己。',
   },
   {
     title: '香水',
@@ -2328,6 +2792,8 @@ module.exports = [
     year: '2006',
     country: '德国法国西班牙美国',
     category: '剧情/犯罪/奇幻',
+    cover: 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2571500223.jpg',
+    quote: '一个单凭体香达到高潮的男人。',
   },
   {
     title: '东京教父',
@@ -2338,6 +2804,8 @@ module.exports = [
     year: '2003',
     country: '日本',
     category: '剧情/喜剧/动画',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p456703618.jpg',
+    quote: '-',
   },
   {
     title: '东京物语',
@@ -2348,6 +2816,8 @@ module.exports = [
     year: '1953',
     country: '日本',
     category: '剧情/家庭',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1925331564.jpg',
+    quote: '东京那么大，如果有一天走失了，恐怕一辈子不能再相见。',
   },
   {
     title: '无间道2',
@@ -2358,6 +2828,8 @@ module.exports = [
     year: '2003',
     country: '中国香港',
     category: '动作/犯罪/剧情/惊悚',
+    cover: 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p859621920.jpg',
+    quote: '-',
   },
   {
     title: '千钧一发',
@@ -2368,6 +2840,8 @@ module.exports = [
     year: '1997',
     country: '美国',
     category: '剧情/科幻/惊悚',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2195672555.jpg',
+    quote: '一部能引人思考的科幻励志片。',
   },
   {
     title: '朗读者',
@@ -2378,6 +2852,8 @@ module.exports = [
     year: '2008',
     country: '美国德国',
     category: '剧情/爱情',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1140984198.jpg',
+    quote: '当爱情跨越年龄的界限，它似乎能变得更久远一点，成为一种责任，一种水到渠成的相濡以沫。 ',
   },
   {
     title: '黑客帝国2：重装上阵',
@@ -2388,6 +2864,8 @@ module.exports = [
     year: '2003',
     country: '美国澳大利亚',
     category: '动作/科幻',
+    cover: 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p443461390.jpg',
+    quote: '一个精彩的世界观正在缓缓建立。',
   },
   {
     title: '再次出发之纽约遇见你',
@@ -2398,6 +2876,8 @@ module.exports = [
     year: '2013',
     country: '美国',
     category: '喜剧/爱情/音乐',
+    cover: 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2250287733.jpg',
+    quote: '爱我就给我看你的播放列表。',
   },
   {
     title: '崖上的波妞',
@@ -2408,6 +2888,8 @@ module.exports = [
     year: '2008',
     country: '日本',
     category: '动画/奇幻/冒险',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2627847859.jpg',
+    quote: '-',
   },
   {
     title: '驴得水',
@@ -2418,6 +2900,8 @@ module.exports = [
     year: '2016',
     country: '中国大陆',
     category: '剧情/喜剧',
+    cover: 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2393044761.jpg',
+    quote: '过去的如果就让它过去了，未来只会越来越糟！',
   },
   {
     title: '我爱你',
@@ -2428,6 +2912,8 @@ module.exports = [
     year: '2011',
     country: '韩国',
     category: '剧情/爱情',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1075591188.jpg',
+    quote: '你要相信，这世上真的有爱存在，不管在什么年纪 ',
   },
   {
     title: '猜火车',
@@ -2438,6 +2924,8 @@ module.exports = [
     year: '1996',
     country: '英国',
     category: '剧情/犯罪',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p513567548.jpg',
+    quote: '不可猜的青春迷笛。 ',
   },
   {
     title: '浪潮',
@@ -2448,6 +2936,8 @@ module.exports = [
     year: '2008',
     country: '德国',
     category: '剧情/惊悚',
+    cover: 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1344888983.jpg',
+    quote: '世界离独裁只有五天。',
   },
   {
     title: '聚焦',
@@ -2458,6 +2948,8 @@ module.exports = [
     year: '2015',
     country: '美国',
     category: '剧情/传记',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2263822658.jpg',
+    quote: '新闻人的理性求真。',
   },
   {
     title: '小萝莉的猴神大叔',
@@ -2468,6 +2960,8 @@ module.exports = [
     year: '2015',
     country: '印度',
     category: '剧情/喜剧/动作',
+    cover: 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2510956726.jpg',
+    quote: '宝莱坞的萝莉与大叔。',
   },
   {
     title: '追随',
@@ -2478,6 +2972,8 @@ module.exports = [
     year: '1998',
     country: '英国',
     category: '犯罪/悬疑/惊悚',
+    cover: 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2561545031.jpg',
+    quote: '诺兰的牛逼来源于内心散发出的恐惧。',
   },
   {
     title: '黑鹰坠落',
@@ -2488,6 +2984,8 @@ module.exports = [
     year: '2001',
     country: '美国英国',
     category: '动作/历史/战争',
+    cover: 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910900710.jpg',
+    quote: '还原真实而残酷的战争。',
   },
   {
     title: '网络谜踪',
@@ -2498,5 +2996,7 @@ module.exports = [
     year: '2018',
     country: '美国俄罗斯',
     category: '剧情/犯罪/悬疑/惊悚',
+    cover: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2542848758.jpg',
+    quote: '-',
   },
 ];
