@@ -2,7 +2,7 @@
  * @Date         : 2021-02-27 21:34:20
  * @Author       : kefeng
  * @LastEditors  : kefeng
- * @LastEditTime : 2021-02-27 22:43:15
+ * @LastEditTime : 2021-02-28 21:46:28
  * @FilePath     : /douban250/src/components/charts/MovieType.vue
 -->
 <template>
