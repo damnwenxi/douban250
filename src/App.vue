@@ -2,7 +2,7 @@
  * @Date         : 2021-02-25 22:06:06
  * @Author       : kefeng
  * @LastEditors  : kefeng
- * @LastEditTime : 2021-02-27 17:08:00
+ * @LastEditTime : 2021-03-01 21:16:00
  * @FilePath     : /douban250/src/App.vue
 -->
 <template>
@@ -12,6 +12,7 @@
         Movies Analyzer
       </div>
       <router-link class="nav-item" to="/">首页</router-link> |
+      <router-link class="nav-item" to="/2">页面2</router-link> |
       <router-link class="nav-item" to="/rank">豆瓣250</router-link>
 
       <div class="date-time">

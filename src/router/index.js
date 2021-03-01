@@ -2,7 +2,7 @@
  * @Date         : 2021-02-25 22:06:06
  * @Author       : kefeng
  * @LastEditors  : kefeng
- * @LastEditTime : 2021-02-27 16:25:05
+ * @LastEditTime : 2021-03-01 21:15:41
  * @FilePath     : /douban250/src/router/index.js
  */
 import Vue from 'vue';
@@ -16,6 +16,11 @@ const routes = [
     path: '/',
     name: 'Home',
     component: Home,
+  },
+  {
+    path: '/2',
+    name: 'Page2',
+    component: () => import(/* webpackChunkName: "about" */ '../views/Page2.vue'),
   },
   {
     path: '/rank',
