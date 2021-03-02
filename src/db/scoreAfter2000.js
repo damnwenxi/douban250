@@ -2,7 +2,7 @@
  * @Date         : 2021-03-01 21:30:49
  * @Author       : kefeng
  * @LastEditors  : kefeng
- * @LastEditTime : 2021-03-01 21:44:11
+ * @LastEditTime : 2021-03-02 22:35:05
  * @FilePath     : /douban250/src/db/scoreAfter2000.js
  */
 const movies = require('./list');
@@ -37,5 +37,11 @@ list = list.map(item => {
     year: item.year,
     score: (item.list.reduce((a, b) => Number((+a + +b)))/item.len).toFixed(2)
   }
+})
+
+list.sort((a, b) => {
+  const an = +a.year
+  const bn = +b.year
+  return an-bn
 })
 module.exports = list
