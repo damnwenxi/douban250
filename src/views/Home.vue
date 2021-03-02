@@ -2,7 +2,7 @@
  * @Date         : 2021-02-25 22:06:06
  * @Author       : kefeng
  * @LastEditors  : kefeng
- * @LastEditTime : 2021-02-28 22:22:08
+ * @LastEditTime : 2021-03-02 23:18:18
  * @FilePath     : /douban250/src/views/Home.vue
 -->
 <template>
@@ -11,6 +11,7 @@
     <movie-type></movie-type>
     <director-pie></director-pie>
     <type-bar></type-bar>
+    <country-pie></country-pie>
   </div>
 </template>
 
@@ -21,13 +22,15 @@
 import MovieType from '@/components/charts/MovieType.vue';
 import DirectorPie from '@/components/charts/DirectorPie.vue';
 import TypeBar from '@/components/charts/TypeBar.vue';
+import CountryPie from '@/components/charts/CountryPie.vue';
 
 export default {
   name: 'Home',
   components: {
     MovieType,
     DirectorPie,
-    TypeBar
+    TypeBar,
+    CountryPie
   },
   data() {
     return {
